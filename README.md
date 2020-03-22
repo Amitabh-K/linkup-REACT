@@ -1,3 +1,21 @@
+# LinkUp 
+
+## Context API
+
+### GitHub API "https://api.github.com/orgs/github/public_members
+
+ Update this application to include the following:
+
+  * Create a separate Context Object for the languages.
+
+  * The application had data pertaining to the user stored in a nested object within the Gallery state.
+
+  * Added the ability to select a different language.
+
+  * Data pertaining to the language is stored in a different nested object within the Gallery state.
+
+  * If a new language is selected, the card is updated with the information of the first user of the selected language.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
