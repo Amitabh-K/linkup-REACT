@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amitabh-K/linkup-REACT.git/static/css/main.4de1e064.chunk.css",
+    "main.js": "/Amitabh-K/linkup-REACT.git/static/js/main.5d8b09e6.chunk.js",
+    "main.js.map": "/Amitabh-K/linkup-REACT.git/static/js/main.5d8b09e6.chunk.js.map",
+    "runtime-main.js": "/Amitabh-K/linkup-REACT.git/static/js/runtime-main.82b5f917.js",
+    "runtime-main.js.map": "/Amitabh-K/linkup-REACT.git/static/js/runtime-main.82b5f917.js.map",
+    "static/js/2.8573acd9.chunk.js": "/Amitabh-K/linkup-REACT.git/static/js/2.8573acd9.chunk.js",
+    "static/js/2.8573acd9.chunk.js.map": "/Amitabh-K/linkup-REACT.git/static/js/2.8573acd9.chunk.js.map",
+    "index.html": "/Amitabh-K/linkup-REACT.git/index.html",
+    "precache-manifest.d150cb59ae13927ee39140824b7a1201.js": "/Amitabh-K/linkup-REACT.git/precache-manifest.d150cb59ae13927ee39140824b7a1201.js",
+    "service-worker.js": "/Amitabh-K/linkup-REACT.git/service-worker.js",
+    "static/css/main.4de1e064.chunk.css.map": "/Amitabh-K/linkup-REACT.git/static/css/main.4de1e064.chunk.css.map",
+    "static/js/2.8573acd9.chunk.js.LICENSE.txt": "/Amitabh-K/linkup-REACT.git/static/js/2.8573acd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b5f917.js",
+    "static/js/2.8573acd9.chunk.js",
+    "static/css/main.4de1e064.chunk.css",
+    "static/js/main.5d8b09e6.chunk.js"
+  ]
+}
